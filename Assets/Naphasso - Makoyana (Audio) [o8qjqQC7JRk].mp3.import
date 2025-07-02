@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b11gydv4pff3h"
+path="res://.godot/imported/Naphasso - Makoyana (Audio) [o8qjqQC7JRk].mp3-205c9ebbd6b5163fcd3ec454dd8d6497.mp3str"
+
+[deps]
+
+source_file="res://Assets/Naphasso - Makoyana (Audio) [o8qjqQC7JRk].mp3"
+dest_files=["res://.godot/imported/Naphasso - Makoyana (Audio) [o8qjqQC7JRk].mp3-205c9ebbd6b5163fcd3ec454dd8d6497.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
